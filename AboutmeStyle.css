@@ -11,4 +11,20 @@ h1{
 
 @media(max-width: 768px){
 
+}h2{
+	color: rgb(244,47,250);
+}
+h1{
+	color: red; font: sans-serif;
+}
+
+@media(max-width: 400px){
+
+}
+
+@media(max-width: 768px){
+
+}
+#yaswerk{
+	height: 500px; width: 300px;
 }

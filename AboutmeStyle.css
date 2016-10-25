@@ -14,7 +14,48 @@ h1{
 }h2{
 	color: rgb(244,47,250);
 }
-h1{
+h1{h1{
+	color: rgb(244,47,250);
+}
+
+a:link{
+	color:blue;
+}
+a:visited{
+	color: pink;
+}
+a:hover {
+	color: black;
+}
+
+@media(max-width: 400px){
+
+}
+
+@media(max-width: 768px){
+
+}
+#tude{
+	height: 250px; width: 150px;
+	float: right;
+	border-style: solid;
+	border-width: 1px;
+	background-color: lavender; 
+	text-align: center;
+	padding-bottom: 40px;
+}
+#attitude{
+	height: 250px; width: 150px;
+}
+#yaswerk{
+	height: 400px; width: 300px;
+	padding-left: 400px;
+}
+#bio{
+	border-style: solid;
+	text-align: center;
+	background-color: pink;
+}
 	color: red; font: sans-serif;
 }
 
